@@ -1,3 +1,4 @@
 .env
 .venv
 token_data.json
+.DS_Store
